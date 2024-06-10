@@ -1,5 +1,8 @@
 # Одностраничное приложение для резервирования билетов в кинотеатр
 
+Приложение доступно по адресу:
+https://rustam-1108d.github.io/test-task-cinema-booking/
+
 ## Задание
 https://docs.google.com/document/d/1YWJGDKB1pLrox6Y4CNm15Nuu_EVcAHIciYUHWYrDNDY/edit
 <br>
